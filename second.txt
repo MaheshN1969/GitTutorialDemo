@@ -1,4 +1,0 @@
-First Third Line
-Second line
-Only Third Line
-Fourth line added
